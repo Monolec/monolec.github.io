@@ -1,0 +1,23 @@
+.container1 {
+	overflow: hidden;
+	position: relative;
+	background-image: url("images/Background2.png");
+	background-size: cover;
+	background-repeat: repeat-y;
+}
+
+#hp {
+	float: left;
+	margin: 1em 6em 1em 6em;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 3em;
+	color: #778899;
+}
+p {
+	font-family: "Lucida Console";
+	font-size: 2em;
+	color: #778899;
+}
