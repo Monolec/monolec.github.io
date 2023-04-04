@@ -1,1 +1,1 @@
-# This is my github, bozo
+# This is my github, stoobid!
